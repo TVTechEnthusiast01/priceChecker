@@ -1,5 +1,5 @@
 const sqlite3 = require("sqlite3");
-const databaseHandler = require("./database");
+const databaseHandler = require("./database.js");
 //user class object
 class User {
 
